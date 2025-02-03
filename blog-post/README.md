@@ -32,7 +32,7 @@ By dedicating time to continuous learning and hands-on practice, I am confident 
 ---
 
 ## How to Use This Repository  
-This repository contains my blog post for the **HNG Internship Task**. To view the full content, open the `blogpost.md` file. If you have any feedback or suggestions, feel free to reach out!  
+This repository contains my blog post for the **HNG Internship Task**. To view the full content, open the `blogpost.md` file. If you have any feedback or suggestions, feel free to reach out!  n
 
 ---
 
