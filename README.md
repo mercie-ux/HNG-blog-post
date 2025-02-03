@@ -26,7 +26,7 @@ During the HNG internship, I plan to:
 By dedicating time to continuous learning and hands-on practice, I am confident that HNG will provide the foundation needed for me to become a proficient front-end developer.  
 
 ## References  
--[Blog]()
+-[Blog](https://hng-blog-post-pkrl-git-main-mercie-uxs-projects.vercel.app/)
 - [HNG Internship Official Website](https://hng.tech)   
 - [HireReact.jsDevelopers](https://hng.tech/hire/reactjs-developers)
 ---
