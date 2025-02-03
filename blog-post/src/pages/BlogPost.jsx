@@ -1,9 +1,8 @@
 import React from 'react';
-import image from '../assets/webpic.png';
 const BlogPost = () => {
   return (
     <div className="blog-card">
-      <img src={image} alt="Blog Post" className="blog-image" />
+      <img src="/assets/webpic.png" alt="Blog Post" className="blog-image" />
       <div className="blog-content">
         <h2 className="blog-title">Why I Want to Be a Front-End Developer and How HNG Will Help Me Achieve My Goals</h2>
         <p className="blog-text">
